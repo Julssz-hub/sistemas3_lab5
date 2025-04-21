@@ -1,4 +1,2 @@
-
-este conflicto se realizo modificando este archivo desde una rama experimental (el anterior) y
-este que es la rama master 
+se modifica el archivo manualmente para quitar el conflicto 
 aloalaoalaoalaoalaoalao
